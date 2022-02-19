@@ -363,10 +363,6 @@ select {
         border: 0;
     }
     
-    .mobile-nav-toggle[aria-expanded="true"] {
-        background-image: url(../../shared/icon-close.svg);
-    }
-    
     .mobile-nav-toggle:focus-visible {
         outline: 5px solid white;
         outline-offset: 5px;
