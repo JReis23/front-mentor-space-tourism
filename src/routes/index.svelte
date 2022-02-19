@@ -22,7 +22,7 @@
 
 <style>
 	.grid-container {
-		background-image: url('./home/background-home-mobile.jpg');
+		background-image: url('../home/background-home-mobile.jpg');
 		background-size: cover;
 		background-position: bottom center;
 	}
